@@ -117,3 +117,114 @@
             }  
         }  
     }  
+/*
+*********Stack operations using linked list*********
+
+----------------------------------------------
+
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+1
+Enter the value34
+Item pushed
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+1
+Enter the value45
+Item pushed
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+1
+Enter the value56
+Item pushed
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+1
+Enter the value76
+Item pushed
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+1
+Enter the value90
+Item pushed
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+3
+Printing Stack elements 
+90
+76
+56
+45
+34
+
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+2
+Item popped
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+3
+Printing Stack elements 
+76
+56
+45
+34
+
+
+Chose one from the below options...
+
+1.Push
+2.Pop
+3.Show
+4.Exit
+ Enter your choice 
+4
+*/
