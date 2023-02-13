@@ -32,6 +32,10 @@ int pop() {
     // decrements top and returns what has been popped      
     return stack[top--]; 
 } 
+/*The infix is: ((a/b)+c)-(d+(e*f))
+The prefix is: -+/abc+d*ef
+*/
+
 
 // Function to return the top from stack without removing it 
 int peek(){ 
