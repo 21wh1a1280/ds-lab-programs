@@ -167,3 +167,7 @@ int main()
 
     return 0; 
 }
+/*The infix is: ((a/b)+c)-(d+(e*f))
+The prefix is: -+/abc+d*ef
+*/
+
