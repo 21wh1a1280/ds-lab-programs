@@ -102,3 +102,117 @@
             }
         }
     }
+/*
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?1
+
+Enter value?
+32
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?1
+
+Enter value?
+34
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?1
+
+Enter value?
+56
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?1
+
+Enter value?
+76
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?1
+
+Enter value?
+65
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?2
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?3
+
+printing values .....
+
+34
+
+56
+
+76
+
+65
+
+*************************Main Menu*****************************
+
+=================================================================
+
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+
+Enter your choice ?4
+/*
