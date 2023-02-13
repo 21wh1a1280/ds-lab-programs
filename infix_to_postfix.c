@@ -62,4 +62,7 @@ int main()
         printf("%c ",pop());
     }return 0;
 }
-
+/*
+Enter the expression : a+b*c  
+a b c * +
+*/
